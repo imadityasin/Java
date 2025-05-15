@@ -1,7 +1,5 @@
 package constructors;
 
-
-
 public class Program_03 {
     //Parameterized Constructor.
 	Program_03(String StudentName, int Age) {
